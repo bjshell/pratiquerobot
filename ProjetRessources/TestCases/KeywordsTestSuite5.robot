@@ -22,5 +22,5 @@ CT_002
     Page Should Contain Button    Dashboard
 
 CT_003
-    Log To Console    bonjour    
+    Log To Console    gihut_pratique    
 
