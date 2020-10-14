@@ -21,5 +21,6 @@ CT_002
     Click Button    id=btnLogin
     Page Should Contain Button    Dashboard
 
-
+CT_003
+    Log To Console    bonjour    
 
